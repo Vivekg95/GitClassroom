@@ -1,0 +1,95 @@
+import java.util.Scanner;
+class Student{
+    public String name;
+    public int age;
+    public int totalmarks;
+    Student(String name,int age,int totalmarks) 
+	{ 
+		this.name = name; 
+        this.age = age; 
+        this.totalmarks = totalmarks; 
+    } 
+    public void display(String name,int age,int totalmarks){
+        System.out.println("updated name is"+name);
+        System.out.println("age is"+age);
+        System.out.println("totalmarks is"+totalmarks);
+
+
+    }
+}
+class Menudriven{
+    public static void main(String[] args) {
+
+        Scanner sc=new Scanner(System.in);
+       
+        int i;
+        String name;
+		int age;
+        int marks;
+        
+       
+        Student[] obj=new Student[5];
+        // obj[0]=new Student("Sam", 32, 400);
+        
+        do{
+            System.out.println("1.Create Record");
+            System.out.println("2.Update Record");
+            System.out.println("3.Display Record");
+            System.out.println("4.Exit");
+            i=sc.nextInt();
+            switch(i){
+                case 1:
+                
+                    System.out.println("enter name");
+                    name=sc.next();
+
+                    System.out.println("enter age");
+                    age=sc.nextInt();
+
+                    System.out.println("enter totalmarks");
+                    marks=sc.nextInt();
+
+                    obj[0]=new Student(name, age, marks);
+                    
+                    
+
+                    System.out.println("name is"+obj[0].name);
+                    System.out.println("age is"+obj[0].age);
+                    System.out.println("totalmarks is"+obj[0].totalmarks);
+                
+
+
+                    break;
+
+                case 2:
+                    System.out.println("enter name to update");
+                    name=sc.next();
+                    obj[0].name=name;
+                    
+                    System.out.println("updated name is"+obj[0].name);
+                    System.out.println("age is"+obj[0].age);
+                    System.out.println("totalmarks is"+obj[0].totalmarks);
+
+                    break;
+
+                case 3:
+                    Student ob=new Student(obj[0].name, obj[0].age, obj[0].totalmarks);
+                    ob.display(obj[0].name, obj[0].age, obj[0].totalmarks);
+                    
+
+                 
+                    break;
+
+                case 4:
+                    System.exit(0);
+
+                    break;
+                default:
+                    System.out.println("enter correct choice");
+
+
+            }
+        }
+        while(i !=0);{}
+    }
+}
