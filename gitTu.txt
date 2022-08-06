@@ -1,0 +1,23 @@
+Vivek Kumar@DESKTOP-SLCNUP5 MINGW64 ~/vivekGitPractise (master)
+$ git status
+On branch master
+nothing to commit, working tree clean
+
+Vivek Kumar@DESKTOP-SLCNUP5 MINGW64 ~/vivekGitPractise (master)
+$ git logs
+git: 'logs' is not a git command. See 'git --help'.
+
+The most similar command is
+        log
+
+Vivek Kumar@DESKTOP-SLCNUP5 MINGW64 ~/vivekGitPractise (master)
+$ git log
+commit a3b3a6995b2abbd0a2d78eda06d5a8cbe7e35b2a (HEAD -> master)
+Author: vivek kumar <ipsa77390@gmail.com>
+Date:   Wed Jul 6 22:48:16 2022 +0530
+
+    made changes in gitpractise.txt
+
+commit 3f137b4c3f3ff6b71bcfae5b48f429bacff436a7
+Author: vivek kumar <ipsa77390@gmail.com>
+Date:   Wed Jul 6 22:46:38 2022 +0530
