@@ -1,143 +1,111 @@
-State or union territory = 'Maharashtra' and 'Confirmed' cases are = '?1,172
+Size of the rows is = 38
+Size of the column is = 7
+Column = 'State/UT' is at 1th position.
+State or union territory = 'Maharashtra
+'Confirmed' cases are = '?1,172
 66,11,078' .
-State or union territory = 'Kerala' and 'Confirmed' cases are = '?7,167
+State or union territory = 'Kerala
+'Confirmed' cases are = '?7,167
 49,68,657' .
-State or union territory = 'Karnataka' and 'Confirmed' cases are = '?292
+State or union territory = 'Karnataka
+'Confirmed' cases are = '?292
 29,88,333' .
-State or union territory = 'Tamil Nadu' and 'Confirmed' cases are = '?1,009
+State or union territory = 'Tamil Nadu
+'Confirmed' cases are = '?1,009
 27,02,623' .
-State or union territory = 'Andhra Pradesh' and 'Confirmed' cases are = '?385
+State or union territory = 'Andhra Pradesh
+'Confirmed' cases are = '?385
 20,66,450' .
-State or union territory = 'Uttar Pradesh' and 'Confirmed' cases are = '?6
+State or union territory = 'Uttar Pradesh
+'Confirmed' cases are = '?6
 17,10,158' .
-State or union territory = 'West Bengal' and 'Confirmed' cases are = '?914
+State or union territory = 'West Bengal
+'Confirmed' cases are = '?914
 15,92,908' .
-State or union territory = 'Delhi' and 'Confirmed' cases are = '?45
+State or union territory = 'Delhi
+'Confirmed' cases are = '?45
 14,39,870' .
-State or union territory = 'Odisha' and 'Confirmed' cases are = '?488
+State or union territory = 'Odisha
+'Confirmed' cases are = '?488
 10,41,457' .
-State or union territory = 'Chhattisgarh' and 'Confirmed' cases are = '?32
+State or union territory = 'Chhattisgarh
+'Confirmed' cases are = '?32
 10,06,052' .
-State or union territory = 'Rajasthan' and 'Confirmed' cases are = '?2
+State or union territory = 'Rajasthan
+'Confirmed' cases are = '?2
 9,54,429' .
-State or union territory = 'Gujarat' and 'Confirmed' cases are = '?20
+State or union territory = 'Gujarat
+'Confirmed' cases are = '?20
 8,26,577' .
-State or union territory = 'Madhya Pradesh' and 'Confirmed' cases are = '?16
+State or union territory = 'Madhya Pradesh
+'Confirmed' cases are = '?16
 7,92,854' .
-State or union territory = 'Haryana' and 'Confirmed' cases are = '?11
+State or union territory = 'Haryana
+'Confirmed' cases are = '?11
 7,71,252' .
-State or union territory = 'Bihar' and 'Confirmed' cases are = '?8
+State or union territory = 'Bihar
+'Confirmed' cases are = '?8
 7,26,098' .
-State or union territory = 'Telangana' and 'Confirmed' cases are = '?121
+State or union territory = 'Telangana
+'Confirmed' cases are = '?121
 6,71,463' .
-State or union territory = 'Assam' and 'Confirmed' cases are = '?212
+State or union territory = 'Assam
+'Confirmed' cases are = '?212
 6,10,645' .
-State or union territory = 'Punjab' and 'Confirmed' cases are = '?26
+State or union territory = 'Punjab
+'Confirmed' cases are = '?26
 6,02,401' .
-State or union territory = 'Jharkhand' and 'Confirmed' cases are = '?10
+State or union territory = 'Jharkhand
+'Confirmed' cases are = '?10
 3,48,764' .
-State or union territory = 'Uttarakhand' and 'Confirmed' cases are = '?5
+State or union territory = 'Uttarakhand
+'Confirmed' cases are = '?5
 3,43,896' .
-State or union territory = 'Jammu and Kashmir' and 'Confirmed' cases are = '?95
+State or union territory = 'Jammu and Kashmir
+'Confirmed' cases are = '?95
 3,32,249' .
-State or union territory = 'Himachal Pradesh' and 'Confirmed' cases are = '?85
+State or union territory = 'Himachal Pradesh
+'Confirmed' cases are = '?85
 2,24,106' .
-State or union territory = 'Goa' and 'Confirmed' cases are = '?23
+State or union territory = 'Goa
+'Confirmed' cases are = '?23
 1,78,108' .
-State or union territory = 'Puducherry' and 'Confirmed' cases are = '?38
+State or union territory = 'Puducherry
+'Confirmed' cases are = '?38
 1,28,013' .
-State or union territory = 'Manipur' and 'Confirmed' cases are = '?63
+State or union territory = 'Manipur
+'Confirmed' cases are = '?63
 1,23,731' .
-State or union territory = 'Mizoram' and 'Confirmed' cases are = '?579
+State or union territory = 'Mizoram
+'Confirmed' cases are = '?579
 1,21,359' .
-State or union territory = 'Tripura' and 'Confirmed' cases are = '?12
+State or union territory = 'Tripura
+'Confirmed' cases are = '?12
 84,468' .
-State or union territory = 'Meghalaya' and 'Confirmed' cases are = '?22
+State or union territory = 'Meghalaya
+'Confirmed' cases are = '?22
 83,627' .
-State or union territory = 'Chandigarh' and 'Confirmed' cases are = '?5
+State or union territory = 'Chandigarh
+'Confirmed' cases are = '?5
 65,351' .
-State or union territory = 'Arunachal Pradesh' and 'Confirmed' cases are = '?1
+State or union territory = 'Arunachal Pradesh
+'Confirmed' cases are = '?1
 55,155' .
-State or union territory = 'Sikkim' and 'Confirmed' cases are = '?21
+State or union territory = 'Sikkim
+'Confirmed' cases are = '?21
 31,979' .
-State or union territory = 'Nagaland' and 'Confirmed' cases are = '?11
+State or union territory = 'Nagaland
+'Confirmed' cases are = '?11
 31,842' .
-State or union territory = 'Ladakh' and 'Confirmed' cases are = '?11
+State or union territory = 'Ladakh
+'Confirmed' cases are = '?11
 20,962' .
-State or union territory = 'Dadra and Nagar Haveli and Daman and Diu' and 'Confirmed' cases are = '10,681' .
-State or union territory = 'Lakshadweep' and 'Confirmed' cases are = '10,365' .
-State or union territory = 'Andaman and Nicobar Islands' and 'Confirmed' cases are = '7,651' .
-State or union territory = 'India' and 'Confirmed' cases are = '?12,907
-3,42,85,612' .
-Column = 'Confirmed' is at 2th position.
-State or union territory = 'Maharashtra' and 'Confirmed' cases are = '?1,172
-66,11,078' .
-State or union territory = 'Kerala' and 'Confirmed' cases are = '?7,167
-49,68,657' .
-State or union territory = 'Karnataka' and 'Confirmed' cases are = '?292
-29,88,333' .
-State or union territory = 'Tamil Nadu' and 'Confirmed' cases are = '?1,009
-27,02,623' .
-State or union territory = 'Andhra Pradesh' and 'Confirmed' cases are = '?385
-20,66,450' .
-State or union territory = 'Uttar Pradesh' and 'Confirmed' cases are = '?6
-17,10,158' .
-State or union territory = 'West Bengal' and 'Confirmed' cases are = '?914
-15,92,908' .
-State or union territory = 'Delhi' and 'Confirmed' cases are = '?45
-14,39,870' .
-State or union territory = 'Odisha' and 'Confirmed' cases are = '?488
-10,41,457' .
-State or union territory = 'Chhattisgarh' and 'Confirmed' cases are = '?32
-10,06,052' .
-State or union territory = 'Rajasthan' and 'Confirmed' cases are = '?2
-9,54,429' .
-State or union territory = 'Gujarat' and 'Confirmed' cases are = '?20
-8,26,577' .
-State or union territory = 'Madhya Pradesh' and 'Confirmed' cases are = '?16
-7,92,854' .
-State or union territory = 'Haryana' and 'Confirmed' cases are = '?11
-7,71,252' .
-State or union territory = 'Bihar' and 'Confirmed' cases are = '?8
-7,26,098' .
-State or union territory = 'Telangana' and 'Confirmed' cases are = '?121
-6,71,463' .
-State or union territory = 'Assam' and 'Confirmed' cases are = '?212
-6,10,645' .
-State or union territory = 'Punjab' and 'Confirmed' cases are = '?26
-6,02,401' .
-State or union territory = 'Jharkhand' and 'Confirmed' cases are = '?10
-3,48,764' .
-State or union territory = 'Uttarakhand' and 'Confirmed' cases are = '?5
-3,43,896' .
-State or union territory = 'Jammu and Kashmir' and 'Confirmed' cases are = '?95
-3,32,249' .
-State or union territory = 'Himachal Pradesh' and 'Confirmed' cases are = '?85
-2,24,106' .
-State or union territory = 'Goa' and 'Confirmed' cases are = '?23
-1,78,108' .
-State or union territory = 'Puducherry' and 'Confirmed' cases are = '?38
-1,28,013' .
-State or union territory = 'Manipur' and 'Confirmed' cases are = '?63
-1,23,731' .
-State or union territory = 'Mizoram' and 'Confirmed' cases are = '?579
-1,21,359' .
-State or union territory = 'Tripura' and 'Confirmed' cases are = '?12
-84,468' .
-State or union territory = 'Meghalaya' and 'Confirmed' cases are = '?22
-83,627' .
-State or union territory = 'Chandigarh' and 'Confirmed' cases are = '?5
-65,351' .
-State or union territory = 'Arunachal Pradesh' and 'Confirmed' cases are = '?1
-55,155' .
-State or union territory = 'Sikkim' and 'Confirmed' cases are = '?21
-31,979' .
-State or union territory = 'Nagaland' and 'Confirmed' cases are = '?11
-31,842' .
-State or union territory = 'Ladakh' and 'Confirmed' cases are = '?11
-20,962' .
-State or union territory = 'Dadra and Nagar Haveli and Daman and Diu' and 'Confirmed' cases are = '10,681' .
-State or union territory = 'Lakshadweep' and 'Confirmed' cases are = '10,365' .
-State or union territory = 'Andaman and Nicobar Islands' and 'Confirmed' cases are = '7,651' .
-State or union territory = 'India' and 'Confirmed' cases are = '?12,907
+State or union territory = 'Dadra and Nagar Haveli and Daman and Diu
+'Confirmed' cases are = '10,681' .
+State or union territory = 'Lakshadweep
+'Confirmed' cases are = '10,365' .
+State or union territory = 'Andaman and Nicobar Islands
+'Confirmed' cases are = '7,651' .
+State or union territory = 'India
+'Confirmed' cases are = '?12,907
 3,42,85,612' .

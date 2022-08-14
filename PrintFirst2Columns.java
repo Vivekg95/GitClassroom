@@ -40,7 +40,7 @@ public class PrintFirst2Columns {
         	String text=driver.findElement(By.xpath("(//div[@class='table-container']//div[contains(@class,'cell heading')]//div[text()])["+i+"]")).getText();
         	
         	
-        	if(text.contains("State/UT") ||text.contains("Confirmed") ){
+        	if(text.contains("State/UT")){
         		System.out.println("Column = '"+text +"' is at "+i+"th position.");
         		List<WebElement> stateNameDe=driver.findElements(By.xpath("//div[contains(@class,'row')]//div[contains(@class,'state-name')]"));
         		
@@ -54,7 +54,8 @@ public class PrintFirst2Columns {
         		
         		 String Confirmed=driver.findElement(By.xpath(dynamicLocator.replace("DYNAMICLOCATOR", stateName))).getText();
         		
-        		 System.out.println("State or union territory = '"+stateName+"' and 'Confirmed' cases are = '"+Confirmed+"' .");
+        		 System.out.println("State or union territory = '"+stateName);
+        		 System.out.println("'Confirmed' cases are = '"+Confirmed+"' .");
         		
         		}
         		  	     	
